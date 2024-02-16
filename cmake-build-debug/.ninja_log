@@ -1,0 +1,20 @@
+# ninja log v5
+6	665	7297947492503160	CMakeFiles/fractalCUDA.dir/main.cpp.obj	7d3a4d216afed15b
+4	1469	7297947500481843	CMakeFiles/fractalCUDA.dir/kernel.cu.obj	7852a69b21ea0992
+1	812	7297948192725169	CMakeFiles/fractalCUDA.dir/cmake_device_link.obj	c54954fae75f4aa1
+1	2012	7297947505902568	CMakeFiles/fractalCUDA.dir/main.cu.obj	102d392c9a5a2de8
+812	1161	7297948196092134	fractalCUDA.exe	514d8154141611ae
+1	349	7297948944721765	CMakeFiles/fractalCUDA.dir/main.cpp.obj	7d3a4d216afed15b
+349	1158	7297948952729588	CMakeFiles/fractalCUDA.dir/cmake_device_link.obj	c54954fae75f4aa1
+1158	1264	7297948953670826	fractalCUDA.exe	514d8154141611ae
+1	349	7297949312266653	CMakeFiles/fractalCUDA.dir/main.cpp.obj	7d3a4d216afed15b
+349	1131	7297949320056216	CMakeFiles/fractalCUDA.dir/cmake_device_link.obj	c54954fae75f4aa1
+1131	1318	7297949321678237	fractalCUDA.exe	514d8154141611ae
+2	349	7297952327870977	CMakeFiles/fractalCUDA.dir/main.cpp.obj	7d3a4d216afed15b
+349	1157	7297952335929155	CMakeFiles/fractalCUDA.dir/cmake_device_link.obj	c54954fae75f4aa1
+1	1894	7297953157837507	CMakeFiles/fractalCUDA.dir/kernel.cu.obj	7852a69b21ea0992
+1895	2668	7297953165656688	CMakeFiles/fractalCUDA.dir/cmake_device_link.obj	c54954fae75f4aa1
+2668	2830	7297953167033972	fractalCUDA.exe	514d8154141611ae
+1	345	7297953313421509	CMakeFiles/fractalCUDA.dir/main.cpp.obj	7d3a4d216afed15b
+345	1123	7297953321176572	CMakeFiles/fractalCUDA.dir/cmake_device_link.obj	c54954fae75f4aa1
+1123	1228	7297953322041734	fractalCUDA.exe	514d8154141611ae
